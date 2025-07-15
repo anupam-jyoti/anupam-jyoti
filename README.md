@@ -12,7 +12,7 @@
 ---
 
 ## 💡 About Me
-I’m an Anupam Jyoti an **AI/ML Engineer & Web Developer** with a passion for crafting intelligent solutions that interact seamlessly with users. Currently, I’m focused on building an **AI/ML Chatbot Generator**—a powerful tool to empower anyone to create customized chatbots with ease.
+I’m **AI/ML Engineer & Web Developer** with a passion for crafting intelligent solutions that interact seamlessly with users. Currently, I’m focused on building an **AI/ML Chatbot Generator**—a powerful tool to empower anyone to create customized chatbots with ease.
 
 - 🔭 I’m currently developing a **next-generation chatbot generator** using cutting-edge NLP, transformer-based models, and an intuitive web interface.
 - 🌱 I’m learning advanced AI frameworks—such as TensorFlow, PyTorch, and the latest in transformer architectures—and parallelly mastering modern front-end and back-end web stacks.
