@@ -55,7 +55,7 @@ A creative platform that allows users to:
   </a>
   &nbsp;
   <a href="mailto:anupamjyoti2006@gmail.com">
-    <img src="https://img.shields.io/badge/anupamjyoti2006@gmail.com-red?style=flat&logo=gmail" alt="Email">
+    <img src="https://img.shields.io/badge/anupamjyoti2006@gmail.com Gmail-red?style=flat&logo=gmail" alt="Email">
   </a>
 </p>
 
