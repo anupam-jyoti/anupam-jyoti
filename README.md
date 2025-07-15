@@ -74,6 +74,6 @@ A creative platform that allows users to:
 
 ---
 
-<p align="center">
+<p align="center" color ="red">
   Made with ❤️ by **Anupam Jyoti**
 </p>
