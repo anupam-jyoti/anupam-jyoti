@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/AI-ML-blue?style=flat&logo=python" alt="AI/ML">
-  <img src="https://img.shields.io/badge/Web-Development-green?style=flat&logo=html5" alt="Web">
+ <a href = "https://www.google.com"> <img src="https://img.shields.io/badge/AI-ML-blue?style=flat&logo=python" alt="AI/ML"> </a>
+<img src="https://img.shields.io/badge/Web-Development-green?style=flat&logo=html5" alt="Web">
   <img src="https://img.shields.io/badge/Chatbot-Generator-orange?style=flat&logo=dialogflow" alt="Chatbot">
 </p>
 
