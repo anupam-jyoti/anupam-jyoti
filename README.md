@@ -1,7 +1,7 @@
 <p align="center">
- <a href = "https://github.com/5at45am"> <img src="https://img.shields.io/badge/AI-ML-blue?style=flat&logo=python" alt="AI/ML"> </a>
-<a href = "https://github.com/5at45am"><img src="https://img.shields.io/badge/Web-Development-green?style=flat&logo=html5" alt="Web"></a>
- <a href = "https://github.com/5at45am"> <img src="https://img.shields.io/badge/Chatbot-Generator-orange?style=flat&logo=dialogflow" alt="Chatbot"></a>
+ <a href = "https://github.com/5at4am"> <img src="https://img.shields.io/badge/AI-ML-blue?style=flat&logo=python" alt="AI/ML"> </a>
+<a href = "https://github.com/5at4am"><img src="https://img.shields.io/badge/Web-Development-green?style=flat&logo=html5" alt="Web"></a>
+ <a href = "https://github.com/5at4am"> <img src="https://img.shields.io/badge/Chatbot-Generator-orange?style=flat&logo=dialogflow" alt="Chatbot"></a>
 </p>
 
 <h1 align="center">Hello, I’m Anupam Jyoti 👋</h1>
