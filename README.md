@@ -54,8 +54,8 @@ A creative platform that allows users to:
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn">
   </a>
   &nbsp;
-  <a href="anupamjyoti2006@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Me-red?style=flat&logo=gmail" alt="Email">
+  <a href="mailto:anupamjyoti2006@gmail.com">
+    <img src="https://img.shields.io/badge/anupamjyoti2006@gmail.com Email-Me-red?style=flat&logo=gmail" alt="Email">
   </a>
 </p>
 
