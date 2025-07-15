@@ -50,11 +50,11 @@ A creative platform that allows users to:
     <img src="https://img.shields.io/badge/GitHub-Anupam--Jyoti-black?style=flat&logo=github" alt="GitHub">
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/yourprofile/">
+  <a href="https://www.linkedin.com/in/anupam-jyoti-ba5016293/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn">
   </a>
   &nbsp;
-  <a href="mailto:your.email@example.com">
+  <a href="anupamjyoti2006@gmail.com">
     <img src="https://img.shields.io/badge/Email-Me-red?style=flat&logo=gmail" alt="Email">
   </a>
 </p>
